@@ -1,5 +1,9 @@
-//todo: rework colors around characterboxes. PlayerChoice gets one color and all opponents get another
 //todo: create ways to undo playerChoice and opponentChoice selections before fights begin
+//todo: implement reset button
+//todo: implement sounds
+//todo: implement animations
+//todo: implement random sayings
+//todo: implement improved graphics mode
 
 var characters = {
 	python: {
