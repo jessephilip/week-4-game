@@ -1,0 +1,29 @@
+body {
+	background-image: url("../images/code-background.png");
+	font-family: 'Source Code Pro', monospace;
+	color: white;
+}
+
+header h1 {
+	text-align: right;
+}
+
+section h2 {
+	font-size: 24px;
+	text-align: center;
+}
+
+.characterBox {
+	font-family: "VT323", "Source Code Pro", monospace;
+	border: 5px solid green;
+	z-index: 1;
+	height: 110px;
+	width: 110px;
+	background-color: white;
+	color: black;
+	margin: 0 5px;
+}
+
+button {
+	margin: 10px 0;
+}
